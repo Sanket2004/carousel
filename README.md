@@ -1,7 +1,7 @@
 # React Carousel with React-Slick and Tailwind CSS
 
 This project demonstrates a responsive image carousel using `react-slick` and styled with Tailwind CSS. The carousel is set to auto-slide and adjusts the number of visible slides based on the screen size.
-
+![Screenshot 2024-06-01 123529](https://github.com/Sanket2004/carousel/assets/99745967/59189003-1d5e-4a2f-a826-14edb6c66660)
 ## Features
 
 - **Auto-Slide**: The carousel automatically transitions between slides every 3 seconds.
