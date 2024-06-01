@@ -16,8 +16,8 @@ This project demonstrates a responsive image carousel using `react-slick` and st
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Sanket2004/react-carousel.git
-    cd react-carousel
+    git clone https://github.com/Sanket2004/carousel.git
+    cd carousel
     ```
 
 2. Install dependencies:
@@ -43,7 +43,7 @@ To use the carousel component in your project, follow these steps:
     Ensure you have the necessary CSS files imported for `react-slick` and Tailwind CSS in your project.
 
 3. **Create Carousel Component**:
-    Create a new file `src/Carousel.js` and add the following code:
+    Create a new file `src/Carousel.jsx` and add the following code:
 
     ```jsx
     // src/Carousel.jsx
@@ -160,7 +160,7 @@ To use the carousel component in your project, follow these steps:
     ```
 
 4. **Add Carousel to Your App**:
-    Import and use the `Carousel` component in your main application file, e.g., `src/App.js`:
+    Import and use the `Carousel` component in your main application file, e.g., `src/App.jsx`:
 
     ```jsx
         // src/App.jsx
